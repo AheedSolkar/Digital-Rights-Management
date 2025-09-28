@@ -45,7 +45,7 @@ This system aims to:
 
 ## 📦 Installation
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/your-username/revolutionizing-drm.git
 
@@ -54,3 +54,6 @@ npm install
 
 # Start the application
 npm start
+```
+
+check : https://digital-rights-management.netlify.app/
