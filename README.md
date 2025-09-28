@@ -56,4 +56,4 @@ npm install
 npm start
 ```
 
-check : https://digital-rights-management.netlify.app/
+click : https://digital-rights-management.netlify.app/
